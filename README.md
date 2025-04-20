@@ -3,7 +3,6 @@
 ## My Skills
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML&logoColor=#E34F26)
 ![css](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=CSS&logoColor=#663399)
-
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=#1572B6)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=GitHub&logoColor=#F7DF1E)
 ![arc](https://img.shields.io/badge/ARC-FCBFBD?style=for-the-badge&logo=ARC&logoColor=#FCBFBD)
