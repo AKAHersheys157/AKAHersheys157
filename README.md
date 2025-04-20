@@ -4,4 +4,5 @@
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML&logoColor=#E34F26)
 ![css](https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=CSS3&logoColor=#663399)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=GitHub&logoColor=#F7DF1E)
+![github](https://img.shields.io/badge/ARC-FCBFBD?style=for-the-badge&logo=ARC&logoColor=#FCBFBD)
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
